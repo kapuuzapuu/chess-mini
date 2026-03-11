@@ -1,4 +1,4 @@
-# chess.mini.py v1.0 by Hassan Khan
+# chess.mini v1.0 by Hassan Khan
 # 2025
 
 # ---
@@ -362,7 +362,7 @@ def move_piece(start, end, turn):
 
 # Main game loop:
 def main():
-    print("\nWelcome to the console chess demo!\n")
+    print("\nWelcome to chess.mini!\n")
     turn = "white"
     move_number = 1 # Initialize move number
     update_board_state() # Record the initial board state
