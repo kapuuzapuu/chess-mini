@@ -25,7 +25,7 @@ chess.mini implements a complete two-player chess game playable in the terminal.
 Requires Python 3.x. No dependencies.
 
 ```bash
-python chessmini.py
+python chess.mini.py
 ```
 
 Moves are entered in algebraic notation:
