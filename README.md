@@ -15,14 +15,14 @@ chess.mini implements a complete two-player chess game playable in the terminal.
   - Check and checkmate detection
   - Stalemate detection
   - Threefold repetition draw
-  - 50-move rule draw
+  - 50-move rule draw (implicitly covers insufficient material and dead positions)
 - Unicode piece rendering in the terminal
 - Turn-based input with move validation
 - Board state tracking
 
 ## How to Run
 
-Requires Python 3.x. No dependencies.
+Requires Python 3.x. No external libraries or dependencies.
 
 ```bash
 python chess.mini.py
