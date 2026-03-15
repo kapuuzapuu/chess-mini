@@ -1,10 +1,10 @@
-# chess.mini
+# chess-mini
 
 A fully functional, console-based chess engine written in Python. Built from scratch as a proof of concept and foundation for [Chessvania](https://github.com/KapuuZapuu/Chessvania) — a larger, more ambitious project.
 
 ## Overview
 
-chess.mini implements a complete two-player chess game playable in the terminal. The goal was to develop and validate the core game logic of a chess engine, its rules, and its architecture in a clean and contained environment before scaling up.
+chess-mini implements a complete two-player chess game playable in the terminal. The goal was to develop and validate the core game logic of a chess engine, its rules, and its architecture in a clean and contained environment before scaling up.
 
 ## Features
 
@@ -25,7 +25,7 @@ chess.mini implements a complete two-player chess game playable in the terminal.
 Requires Python 3.x. No external libraries or dependencies.
 
 ```bash
-python chess.mini.py
+python chess-mini.py
 ```
 
 Moves are entered in algebraic notation:
