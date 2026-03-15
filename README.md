@@ -1,6 +1,6 @@
 # chess-mini
 
-A fully functional, console-based chess engine written in Python. Built from scratch as a proof of concept and foundation for [Chessvania](https://github.com/KapuuZapuu/Chessvania) — a larger, more ambitious project.
+A fully functional, console-based chess engine written in Python. Built from scratch as a proof of concept and foundation for [Chessvania](https://github.com/KapuuZapuu/chessvania) — a larger, more ambitious project.
 
 ## Overview
 
